@@ -1,0 +1,20 @@
+p{color: red;}
+#header{background-color: yellow;}
+.highlight {font-size: 20px;}
+.external {background-color: blue;}
+.post, .featured {color: green;}
+#menu li  {text-align:center}
+h1, h2 {color: white; background-color: black;}
+.warning , .error {font-size: 14px;}
+.button , a {background-color: blue;}
+.article p {text-align: left;}
+.section .subheading {color: orange;}
+div>ul {background-color: gray;}
+h3>.highlight {font-size: 24px;}
+ .selected + li {text-align: right;}
+ h2+p {color: blueviolet; background-color: green;}
+ a , .button {font-size: 18px;}
+ .featured , .popular {background-color: brown;}
+ .menu>ul>li {text-align: right;}
+ h2 + .article>p{color: blue; background-color: orange;}
+ h3+.sidebar>.info {font-size: 22px;}
